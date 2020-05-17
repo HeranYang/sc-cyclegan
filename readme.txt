@@ -1,7 +1,7 @@
 % Structure-constrained cycleGAN
 % Input: unpaired CT and MR volumes.
 % Output: the synthetic MR/CT volume corresponding to input CT/MR volume.
-% %% heran 2018/09/18 %%
+% %% heran 2020/05/17 %%
 
 % Reference: Yang, H., Sun, J., Carass, A., Zhao, C., Lee, J., Xu, Z., & Prince, J. L. Unpaired Brain MR-to-CT Synthesis using a Structure-Constrained CycleGAN. In MICCAI 2018 Workshop: Deep Learning in Medical Image Analysis (DLMIA).
 
